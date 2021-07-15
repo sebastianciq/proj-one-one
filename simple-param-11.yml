@@ -1,0 +1,4 @@
+# File: simple-param.yml
+
+steps:
+- script: echo "hello world 11"
